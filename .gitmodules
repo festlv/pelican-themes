@@ -136,9 +136,6 @@
 [submodule "nikhil-theme"]
 	path = nikhil-theme
 	url = https://github.com/gunchu/nikhil-theme
-[submodule "ptemplate"]
-	path = ptemplate
-	url = https://github.com/spinner-dev/ptemplate.git
 [submodule "chameleon"]
 	path = chameleon
 	url = https://github.com/yuex/pelican-iliork.git
@@ -163,9 +160,6 @@
 [submodule "cid"]
 	path = cid
 	url = https://github.com/hdra/Pelican-Cid
-[submodule "uberblau"]
-	path = uberblau
-	url = https://github.com/uberpartei/uberblau
 [submodule "Flex"]
 	path = Flex
 	url = https://github.com/alexandrevicenzi/Flex.git
@@ -205,3 +199,21 @@
 [submodule "semantic-ui"]
 	path = semantic-ui
 	url = https://github.com/ellisonleao/pelican-semantic-ui
+[submodule "yapeme"]
+	path = yapeme
+	url = https://github.com/kplaube/yapeme
+[submodule "pelican-blue"]
+	path = pelican-blue
+	url = https://github.com/Parbhat/pelican-blue
+[submodule "pelican-hss"]
+	path = pelican-hss
+	url = https://github.com/laughk/pelican-hss.git
+[submodule "nice-blog"]
+	path = nice-blog
+	url = https://github.com/guilherme-toti/nice-blog
+[submodule "apricot"]
+	path = apricot
+	url = https://github.com/livibetter-backup/apricot.git
+[submodule "lab"]
+	path = lab
+	url = https://github.com/mothsART/pelican-lab
